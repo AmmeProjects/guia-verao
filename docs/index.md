@@ -16,8 +16,4 @@ Encontram-se ainda a decorrer as alterações do quadro legislativo e regulament
 
 Face a este cenário e ao constante aumento do número de veículos Tesla nas estradas portuguesas é expectável que durante este verão surjam novamente  ==**filas para carregar nos Superchargers mais populares em horas de ponta.**==
 
-
-<div style="text-align:center;">
-  <a href="https://cdn.shopify.com/s/files/1/0612/1632/5827/files/Guia_alternativas_aos_SuperChargers_para_o_Verao_de_2025.pdf?v=1752079913" download style="display:inline-block;padding:10px 20px;background:#007bff;color:#fff;text-decoration:none;border-radius:5px;font-weight:bold;">Descarregar PDF</a>
-</div>
-
+[Descarregar PDF](https://cdn.shopify.com/s/files/1/0612/1632/5827/files/Guia_alternativas_aos_SuperChargers_para_o_Verao_de_2025.pdf?v=1752079913){ .theme-button download }
